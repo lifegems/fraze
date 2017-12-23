@@ -12,7 +12,7 @@ export class HomePage {
     {
       title: "Haitian Creole",
       description: "Pawol yo pou koprann.",
-      deck: Decks.ProgrammingTerms
+      deck: Decks.Nimewo
     },
     {
       title: "Programming Terms",
@@ -22,7 +22,7 @@ export class HomePage {
     {
       title: "Bible Books",
       description: "Not including the apocrypha or pseudepograph.",
-      deck: Decks.ProgrammingTerms
+      deck: Decks.BibleBooks
     },
   ];
 
