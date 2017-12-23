@@ -231,7 +231,7 @@ export const BibleBooks = [
         sideB: "Ebre"
     },
      {
-        sideA: "Jamea",
+        sideA: "James",
         sideB: "Jak"
     },
      {
