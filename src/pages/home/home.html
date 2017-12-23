@@ -5,7 +5,7 @@
 </ion-header>
 
 <ion-content padding>
-  <ion-card *ngFor="let deck of decks">
+  <ion-card *ngFor="let deck of decks" (click)="viewDeck(deck.deck)">
     <ion-card-header>
       Title: {{deck.title}}
     </ion-card-header>
